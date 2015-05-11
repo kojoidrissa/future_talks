@@ -5,3 +5,5 @@ I started this after AlterConf 2015-04-25, since I had two ideas for talks based
 -  Inlcusion 102: What're the next, harder steps?
 -  Privilege Arbitrage: How to be the best ally you can
 
+As the various talks take form, I'll move them to their own repos or directories.
+
