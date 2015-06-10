@@ -16,6 +16,7 @@ Asian Idol groups can show you how to structure your dev teams or companies. Non
 +  Items from K-Pop Idol list
 +  Trainee system: Invest in developing new developers
     +  eliminates the "we don't have enough good developers" issue. Grow your own
+    +  Watch this ABC News video about Mark Lee: [SM Rookie Mark Lee Speaks To ABC News About What Makes K-Pop Stars Different From Overseas Musicians](http://www.kpopstarz.com/articles/208792/20150608/sm-rookie-mark-kpop-abc-news.htm)
     +  try to instill a focus on virtuosity & craftsmanship. See [G-Soul](http://en.wikipedia.org/wiki/G.Soul) and his [15 years](https://twitter.com/followjyp/status/553425878374309888) of [training](http://www.twitlonger.com/show/n_1sjrav1).
 -  Upward mobility options?
     +  Shinhwa --> Teen Top
