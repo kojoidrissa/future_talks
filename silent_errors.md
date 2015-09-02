@@ -8,3 +8,8 @@ Diversity in tech isn't a pipeline problem, it's a "hostile environment" problem
 This talk was inspired by the MANY examples I found of this while working on my DjangoCon 2015 Inclusion talk. It MAY be the foundation of my PyTexas 2015 talk.
 
 All the times that non-hetero CISgendered white males in a certain age range get pushed away or turned off by the prevailing tech culture.
+
+##List
+-  [Rachel Nabors: You literally cannot pay me to speak without a Code of Conduct](http://rachelnabors.com/2015/09/01/code-of-conduct/)
+-  [No, I don’t trust your conference without a Code of Conduct](http://www.perpendicularangel.com/2015/08/no-i-dont-trust-your-conference-without-a-code-of-conduct/)
+-  
