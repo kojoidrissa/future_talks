@@ -19,6 +19,23 @@ How would I do this?
 -  Nose
 -  Pytest
 
+Doctest: your first step into testing
+-------------------------------------
+
+Unittest: Testing JAVA style! (like Gangnam Style...but with testing)
+---------------------------------------------------------------------
+
+Nose: The New Hotness
+----------------------
+
+Pytest: Latest and Greatest
+----------------------------
+
+References
+***********
+-  `Python 3.4 Doctest docs <https://docs.python.org/3.4/library/doctest.html>`_
+-  `Doctest Introduction <http://pythontesting.net/framework/doctest/doctest-introduction/>`_
+
 Give credit where it's due
 ---------------------------
 -  `Python Testing <http://pythontesting.net/>`_
