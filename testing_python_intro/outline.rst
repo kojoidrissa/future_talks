@@ -35,6 +35,7 @@ References
 ***********
 -  `Python 3.4 Doctest docs <https://docs.python.org/3.4/library/doctest.html>`_
 -  `Doctest Introduction <http://pythontesting.net/framework/doctest/doctest-introduction/>`_
+-  `Testing through documentation <https://pymotw.com/2/doctest/>`_
 
 Give credit where it's due
 ---------------------------
