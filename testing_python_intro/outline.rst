@@ -24,7 +24,7 @@ Doctest: your first step into testing
 
 Unittest: Testing SMALLTALK style! (like Gangnam Style...but with testing)
 ---------------------------------------------------------------------------
--  An "xTest" style of testing. Based on STest from Smalltalk
+-  An "`xUnit<https://en.wikipedia.org/wiki/XUnit>`_" style of testing. Based on SUnit from Smalltalk
 
 Nose: The New Hotness
 ----------------------
