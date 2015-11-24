@@ -22,8 +22,9 @@ How would I do this?
 Doctest: your first step into testing
 -------------------------------------
 
-Unittest: Testing JAVA style! (like Gangnam Style...but with testing)
----------------------------------------------------------------------
+Unittest: Testing SMALLTALK style! (like Gangnam Style...but with testing)
+---------------------------------------------------------------------------
+-  An "xTest" style of testing. Based on STest from Smalltalk
 
 Nose: The New Hotness
 ----------------------
@@ -36,6 +37,9 @@ References
 -  `Python 3.4 Doctest docs <https://docs.python.org/3.4/library/doctest.html>`_
 -  `Doctest Introduction <http://pythontesting.net/framework/doctest/doctest-introduction/>`_
 -  `Testing through documentation <https://pymotw.com/2/doctest/>`_
+-  `Python 3.4 Unittest docs <https://docs.python.org/3.4/library/unittest.html#>`_
+
+    +  `TestCase class docs <https://docs.python.org/3.4/library/unittest.html#unittest.TestCase>`_
 
 Give credit where it's due
 ---------------------------
