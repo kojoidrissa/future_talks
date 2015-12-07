@@ -24,7 +24,10 @@ Doctest: your first step into testing
 
 Unittest: Testing SMALLTALK style! (like Gangnam Style...but with testing)
 ---------------------------------------------------------------------------
+
 -  An "`xUnit<https://en.wikipedia.org/wiki/XUnit>`_" style of testing. Based on SUnit from Smalltalk
+-  test isolation: why unittest creates a NEW object for EACH test method
+-  mocking: because you can't test The Internet
 
 Nose: The New Hotness
 ----------------------
@@ -40,6 +43,8 @@ References
 -  `Python 3.4 Unittest docs <https://docs.python.org/3.4/library/unittest.html#>`_
 
     +  `TestCase class docs <https://docs.python.org/3.4/library/unittest.html#unittest.TestCase>`_
+
+-  `Ned Batchelder: Getting Started Testing - PyCon 2014 <https://www.youtube.com/watch?v=FxSsnHeWQBY>`_
 
 Give credit where it's due
 ---------------------------
