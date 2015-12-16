@@ -1,4 +1,6 @@
 #Rock Star/Ninja alternatives
+Potential PyCon talk
+
 This list was inspired by the following tweet:
 
 >Why's it always a "Rock Star Developer" and never "Smooth Jazz Engineer" or a "Pop Star Coder" 
