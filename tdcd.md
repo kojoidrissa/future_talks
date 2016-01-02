@@ -11,4 +11,4 @@ I explain the basics of TDD & how I could've used it  to avoid errors in my care
 -  Both!
 
 Can I DO this?
--  [I would got Freelancer.com and pick a job, then code it and put it in my Github. And then I'd be like, "I didn't get the job, but I made this."](https://www.youtube.com/watch?v=DDvToOqb6VA&t=42m18s)
+-  [I would go to Freelancer.com and pick a job, then code it and put it in my Github. And then I'd be like, "I didn't get the job, but I made this."](https://www.youtube.com/watch?v=DDvToOqb6VA&t=42m18s)
